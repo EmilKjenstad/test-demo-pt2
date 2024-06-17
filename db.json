@@ -1,4 +1,82 @@
 {
+         "dashboard_sales": {
+        "sales_table": [
+            {
+            "country": { "name": "United States", "flag": "cifUs" },
+            "usage": {
+                "value": 38,
+                "period": "Jun 11, 2023 - Jul 10, 2023"
+            },
+            "sales": 380,
+            "value": 3800
+            },
+            {
+            "country": { "name": "Norway", "flag": "cifNo" },
+            "usage": {
+                "value": 23,
+                "period": "Jun 11, 2023 - Jul 10, 2023"
+            },
+            "sales": 230,
+            "value": 2300
+            },
+            {
+            "country": { "name": "India", "flag": "cifIn" },
+            "usage": {
+                "value": 17,
+                "period": "Jun 11, 2023 - Jul 10, 2023"
+            },
+            "sales": 170,
+            "value": 1700
+            },
+            {
+            "country": { "name": "France", "flag": "cifFr" },
+            "usage": {
+                "value": 12,
+                "period": "Jun 11, 2023 - Jul 10, 2023"
+            },
+            "sales": 120,
+            "value": 1200
+            },
+            {
+            "country": { "name": "Spain", "flag": "cifEs" },
+            "usage": {
+                "value": 7,
+                "period": "Jun 11, 2023 - Jul 10, 2023"
+            },
+            "sales": 70,
+            "value": 700
+            },
+            {
+            "country": { "name": "Rest of the World", "flag": "cilGlobeAlt" },
+            "usage": {
+                "value": 3,
+                "period": "Jun 11, 2023 - Jul 10, 2023"
+            },
+            "sales": 30,
+            "value": 300
+            }
+        ],
+        "progressExample": {
+            "Reglo": 50,
+            "IPC": 73,
+            "B/T": 90,
+            "LS/IP": 60
+        },
+        "income": [
+            {"m": "July", "value": 1566},
+            {"m": "August", "value": 4623},
+            {"m": "September", "value": 1264},
+            {"m": "October", "value": 3464},
+            {"m": "November", "value": 6886},
+            {"m": "December", "value": 2335},
+            {"m": "January", "value": 1242},
+            {"m": "February", "value": 1542},
+            {"m": "March", "value": 1564},
+            {"m": "April", "value": 1263},
+            {"m": "May", "value": 2335},
+            {"m": "June", "value": 6432}
+        ]
+    },
       "dashboard_eol": {
         "success_rate_cell": [
             { "cell": 1, "succ_rate": 79, "attempts": 4 },
