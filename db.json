@@ -1,11 +1,11 @@
 {
     "dashboard_production": {
-        "widget_data": {
-            "A": [{"m": "January", "value": 65},{"m": "February", "value": 59},{"m": "March", "value": 84},{"m": "April", "value": 84},{"m": "May", "value": 51},{"m": "June", "value": 55},{"m": "July", "value": 40}],
-            "B": [{"m": "January", "value": 78},{"m": "February", "value": 65},{"m": "March", "value": 93},{"m": "April", "value": 82},{"m": "May", "value": 56},{"m": "June", "value": 72},{"m": "July", "value": 89}],
-            "C": [{"m": "January", "value": 53},{"m": "February", "value": 91},{"m": "March", "value": 68},{"m": "April", "value": 74},{"m": "May", "value": 61},{"m": "June", "value": 97},{"m": "July", "value": 85}],
-            "D": [{"m": "January", "value": 67},{"m": "February", "value": 54},{"m": "March", "value": 88},{"m": "April", "value": 75},{"m": "May", "value": 96},{"m": "June", "value": 64},{"m": "July", "value": 94}]
-        },
+        "widget_data": [
+            {"label": "Reglo", "data":[{"m": "January", "value": 65},{"m": "February", "value": 59},{"m": "March", "value": 84},{"m": "April", "value": 84},{"m": "May", "value": 51},{"m": "June", "value": 55},{"m": "July", "value": 40}]},
+            {"label": "B/T", "data":[{"m": "January", "value": 78},{"m": "February", "value": 65},{"m": "March", "value": 93},{"m": "April", "value": 82},{"m": "May", "value": 56},{"m": "June", "value": 72},{"m": "July", "value": 89}]},
+            {"label": "IPC", "data":[{"m": "January", "value": 53},{"m": "February", "value": 91},{"m": "March", "value": 68},{"m": "April", "value": 74},{"m": "May", "value": 61},{"m": "June", "value": 97},{"m": "July", "value": 85}]},
+            {"label": "LS/IP", "data":[{"m": "January", "value": 67},{"m": "February", "value": 54},{"m": "March", "value": 88},{"m": "April", "value": 75},{"m": "May", "value": 96},{"m": "June", "value": 64},{"m": "July", "value": 94}]}
+        ],
         "period_production": {
             "today": {"Reglo": 2,"B/T": 1,"IPC": 5,"LS/IP": 7},
             "lastSeven": {"Reglo": 16,"B/T": 4,"IPC": 7,"LS/IP": 15},
